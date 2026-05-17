@@ -27,3 +27,7 @@ git push -u origin main
 git add .
 git commit -m "your message"
 git push
+
+
+
+All you need to run this project is to create a virtual environment in your pc and then install all the requirements in the requirements.txt 
